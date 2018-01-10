@@ -1,2 +1,2 @@
 # php-mailgun-list
-Simple php maligun news letter
+Simple php mailgun news letter
